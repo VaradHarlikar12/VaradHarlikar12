@@ -1,4 +1,4 @@
-![MasterHead](https://gifdb.com/images/high/swamp-firefly-discord-banner-z6abbjujmcpkrnz0.webp)
+<img src="https://gifdb.com/images/high/swamp-firefly-discord-banner-z6abbjujmcpkrnz0.webp" width=100%>
 <h1 align="center">Hi 👋, I'm Varad Harlikar</h1>
 <h3 align="center">A passionate Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*3N994lFVAwmVTsYJ.gif">
